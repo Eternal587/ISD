@@ -5,7 +5,13 @@ git clone https://github.com/Eternal587/ISD
 next run
 cd ISD
 then
+chmod +x ./boot.sh
 ./boot.sh
+after you've installed restart ish and  execute
+cd ISD 
+chmod +x ./pkg.sh
+./pkg.sh
+this will install apt and sudo
 # how to run it after install
 cd ISD 
 ./boot.sh
